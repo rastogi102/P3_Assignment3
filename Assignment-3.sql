@@ -1,6 +1,8 @@
 -- Drop the database if it already exists
 DROP DATABASE IF EXISTS ExerciseDb;
 
+-------------------Part-1-----------------------------------------
+
 -- Create the database
 CREATE DATABASE ExerciseDb;
 
